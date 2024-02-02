@@ -985,15 +985,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/postgres@npm:^0.5.0":
-  version: 0.5.0
-  resolution: "@vercel/postgres@npm:0.5.0"
+"@vercel/postgres@npm:^0.5.1":
+  version: 0.5.1
+  resolution: "@vercel/postgres@npm:0.5.1"
   dependencies:
     "@neondatabase/serverless": "npm:0.6.0"
-    bufferutil: "npm:4.0.7"
+    bufferutil: "npm:4.0.8"
     utf-8-validate: "npm:6.0.3"
     ws: "npm:8.14.2"
-  checksum: 0ad13a988b3e1d00aaf43c3a647959970a19ae1ae4bbab496f50123be1be9017cc5a2c1b1cdf03d9608928bea6ba42188679ad104234ec70ca48b291587b1790
+  checksum: f1aa3f2009a692ee116a4d6c93009c038f95b54729ab8de4b767aa793cb40d4e49f1900a3f81c21967d2055ff93cc0ba3c69f8474b4a9a2362033e2d45ae9edc
   languageName: node
   linkType: hard
 
@@ -1440,13 +1440,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bufferutil@npm:4.0.7":
-  version: 4.0.7
-  resolution: "bufferutil@npm:4.0.7"
+"bufferutil@npm:4.0.8":
+  version: 4.0.8
+  resolution: "bufferutil@npm:4.0.8"
   dependencies:
     node-gyp: "npm:latest"
     node-gyp-build: "npm:^4.3.0"
-  checksum: 48d6cf98b9c227db65f0a1062b6c80e933c43dc03e0ad5f908da0e79cc87a633c215516f4d541ca9b0e09c1fb386f1bbe1fc2de913057f0201d14798d3e0c2bb
+  checksum: 36cdc5b53a38d9f61f89fdbe62029a2ebcd020599862253fefebe31566155726df9ff961f41b8c97b02b4c12b391ef97faf94e2383392654cf8f0ed68f76e47c
   languageName: node
   linkType: hard
 
@@ -4981,7 +4981,7 @@ __metadata:
     "@types/node": "npm:20.5.7"
     "@types/react": "npm:18.2.21"
     "@types/react-dom": "npm:18.2.14"
-    "@vercel/postgres": "npm:^0.5.0"
+    "@vercel/postgres": "npm:^0.5.1"
     "@vercel/style-guide": "npm:^5.0.1"
     autoprefixer: "npm:10.4.15"
     bcrypt: "npm:^5.1.1"
